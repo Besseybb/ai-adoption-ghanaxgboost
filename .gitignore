@@ -1,0 +1,9 @@
+# data stays private (human-participant survey)
+*.xlsx
+*.csv
+# generated outputs and saved models
+revision_outputs/
+*.joblib
+predictions.csv
+__pycache__/
+.ipynb_checkpoints/
